@@ -1,4 +1,4 @@
-# Math PHP
+# calculator Math PHP
   
 ![alt text](https://raw.githubusercontent.com/akash-mahanty/calculator/master/deleteme-after-download.png)
 
