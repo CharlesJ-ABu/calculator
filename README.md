@@ -1,4 +1,5 @@
 # calculator JavaScript HTML CSS
+Watch a demo of this calculator at http://bit.do/CALCULATOR-DEMO-AKASH-MAHANTY
 ![alt text](https://raw.githubusercontent.com/akash-mahanty/calculator/master/deleteme-after-download.png)
 
 ## Install
