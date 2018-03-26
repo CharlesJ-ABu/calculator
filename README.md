@@ -1,5 +1,5 @@
 # calculator built using JavaScript HTML and CSS
-[Akash mahanty quora profile](https://www.quora.com/profile/Akash-Mahanty-4)
+
 Watch a demo of this calculator at [http://bit.do/CALCULATOR-DEMO-AKASH-MAHANTY](http://bit.do/CALCULATOR-DEMO-AKASH-MAHANTY)  
 ![alt text](https://raw.githubusercontent.com/akash-mahanty/calculator/master/deleteme-after-download.png)
 
